@@ -1,0 +1,13 @@
+# Deadlock Escape - Requisitos do Sistema
+#
+# Este jogo foi desenvolvido usando apenas bibliotecas padrão do Python
+# Não há dependências externas necessárias
+
+# Python 3.7 ou superior é recomendado
+# tkinter (incluído por padrão no Python)
+# typing (incluído por padrão no Python 3.5+)
+# dataclasses (incluído por padrão no Python 3.7+)
+# enum (incluído por padrão no Python 3.4+)
+
+# Para Python 3.6 ou inferior, instale dataclasses:
+# dataclasses>=0.6
